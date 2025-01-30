@@ -24,45 +24,7 @@ I am a self-motivated and adaptable individual who thrives in challenging enviro
 
 ---
 
-## 🚀 Projects  
-
-### 📌 *Smart Parking System*  
-🔹 Developed an IoT-based smart parking system using real-time data.  
-🔹 Integrated sensors for parking space monitoring and live updates via an LCD display.  
-🔹 Optimized parking efficiency by reducing search time and traffic congestion.  
-
-### 🎮 *Rock-Paper-Scissors Game*  
-🔹 Created an interactive *Rock-Paper-Scissors* game using HTML, CSS, and JavaScript.  
-🔹 Designed a *user-friendly and responsive* interface for a seamless gaming experience.  
-
-### 🏝 *Tourism Management System*  
-🔹 Built a web-based *Tourism Management System* using HTML, CSS, JavaScript, PHP, and MySQL.  
-🔹 Allows users to browse destinations, book tours, and manage travel plans.  
-🔹 Provides real-time updates and ensures a smooth user experience.  
-
----
-
-## 🏆 Certifications  
-
-- *Problem Solving Through Programming in C* – NPTEL  
-- *Python Foundation Certification* – Infosys Springboard  
-- *Web Development using HTML and CSS* – TechA  
-- *Salesforce Certification* – TechA  
-- *HTML, CSS, and JavaScript for Web Developers* – Coursera  
-
----
-
-## 🌟 Internships & Training  
-
-### 🖥 *EtherinfoTech - Coimbatore*  
-🔹 Full Stack Development Internship (July 2024)  
-
-### 🌐 *ETS Academy - Erode*  
-🔹 Networking Concepts Training (February 2024)  
-
----
-
 ## 📫 Connect with Me  
 📧 *Email:* [sudalaieswaran2005@gmail.com](mailto:sudalaieswaran2005@gmail.com)  
 📍 *Location:* Tenkasi, Tamil Nadu  
-🔗 *[LinkedIn](https://linkedin.com/in/sudalai-eswaran-523452265)* | *[GitHub](https://github.com/SUDALAIESWARAN)* | *[CodeChef](https://www.codechef.com/users/sudalaieswaran)* | *[LeetCode](https://leetcode.com/u/sudalaieswaran/)* | *[StopStalk](https://www.stopstalk.com/user/profile/Sudalaieswaran)*
+🔗 *[LinkedIn](https://linkedin.com/in/sudalai-eswaran-523452265)* |  *[CodeChef](https://www.codechef.com/users/sudalaieswaran)* | *[LeetCode](https://leetcode.com/u/sudalaieswaran/)*
